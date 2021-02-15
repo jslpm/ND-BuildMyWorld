@@ -13,10 +13,9 @@ Also, a welcome message is displayed to the terminal.
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
-4. Run it: `./membot`.
-5. In terminal, execute: `export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:<pathToRepo>/ND-BuildMyWorld/build`
-6. Go to world folder: `cd <pathToProject>/ND-BuildMyWorld/world/`
-7. Open with gazebo simulator: `gazebo home`
+4. In terminal, execute: `export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:<pathToRepo>/ND-BuildMyWorld/build`
+5. Go to world folder: `cd <pathToProject>/ND-BuildMyWorld/world/`
+6. Open with gazebo simulator: `gazebo home`
 
 ## Summary of Tasks
 
