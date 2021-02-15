@@ -2,11 +2,11 @@
 
 This repo contains the first project of the Robot Software Engineer Nanodegree Program from Udacity. The program show a world build in gazebo simulator, with some elements on it, like robots and furniture.
 
-!(gazebo)[./data/gazebo_project_01.png]
+<img src="./data/gazebo_project_01.png"/>
 
-Also, a welcome message is displayed to the terminal
+Also, a welcome message is displayed to the terminal.
 
-!(message)[./data/message.png]
+<img src="./data/message.png"/>
 
 ## Basic Build Instructions
 
