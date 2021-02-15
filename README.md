@@ -1,6 +1,6 @@
 # Project 1 - Build My World
 
-This repo contains the first project of the Robot Software Engineer Nanodegree Program from Udacity. The program show a world build in gazebo simulator, with some elements on it, like robots and furniture.
+This repo contains the first project of the Robot Software Engineer Nanodegree Program from Udacity. The program shows a world built in gazebo simulator with some elements on it, like robots and furniture.
 
 <img src="./data/gazebo_project_01.png"/>
 
@@ -14,8 +14,8 @@ Also, a welcome message is displayed to the terminal.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
 4. Run it: `./membot`.
-5. In terminal, execute: `export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:<pathToRepo>/ND-BuildMyWorld/build
-6. Go to world folder: `cd <pathToProject>/ND-BuildMyWorld/world/
+5. In terminal, execute: `export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:<pathToRepo>/ND-BuildMyWorld/build`
+6. Go to world folder: `cd <pathToProject>/ND-BuildMyWorld/world/`
 7. Open with gazebo simulator: `gazebo home`
 
 ## Summary of Tasks
